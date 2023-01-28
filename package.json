@@ -14,11 +14,11 @@
     "chai": "^4.2.0",
     "ethereum-waffle": "^3.0.0",
     "ethers": "^5.0.0",
-    "hardhat": "^2.6.8"
+    "hardhat": "^2.12.6"
   },
   "dependencies": {
-    "@alch/alchemy-web3": "^1.1.8",
+    "@alch/alchemy-web3": "^1.4.7",
     "@openzeppelin/contracts": "^4.3.3",
-    "dotenv": "^10.0.0"
+    "dotenv": "^16.0.3"
   }
 }
